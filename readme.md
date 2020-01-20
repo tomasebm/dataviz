@@ -34,18 +34,24 @@ Some datawrangling was done in the dataset. NaN rows were dumped. Column Years h
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 _We found that Nintendo Company is a leader both in platform and game sales overall.
+
 _Most popular game genre is Action, followed by Sport.
+
 _Activision and Take Two Interactive follows Nintendo on most popular publishers, when we filter Top 50 games.
+
 _2008 and 2009 register highest sales records overall.
+
 _Japan adopted videogame culture way earlier than other countries present in the dataset.
+
 _North America is the biggest market, compared to Europe, Japan, an rest of the world.
 
 ## Key Insights for Presentation
 
 _Our Main goal is to inquire about game culture and market differences.
+
 _When we ask the dataset about most selling genres in Japan, Role Playing stands out, followed by Action and Sports.
+
 _When we ask the dataset about most selling genres in North America, Actions games takes the lead, followed by Sports and Shooters.
+
 _Finally, we managed to create two multivariate graphs that clearly shows market differences between continents.
